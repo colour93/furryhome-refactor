@@ -1,0 +1,450 @@
+[
+  {
+    "name": "兽界 Unifurse",
+    "desc": "兽亦无界 · 探索兽展宇宙",
+    "favicon": "https://unifurse.cn/assets/unifurse_logo.png",
+    "url": "https://unifurse.cn",
+    "cateName": "platform"
+  },
+  {
+    "name": "WikiFur",
+    "desc": "你也可以编辑的兽百科全书",
+    "favicon": "https://api.furryhome.cn/icons/FurryHome-202205091822784.png",
+    "url": "http://zh.wikifur.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "兽次元",
+    "desc": "游戏,兽人,生活爱好者传播平台",
+    "favicon": "https://api.furryhome.cn/icons/FurryHome-202205091823104.png",
+    "url": "https://www.furryonline.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "极兽聚",
+    "desc": "兽人主题ONLY展 - Super Furry Fusion",
+    "favicon": "https://api.furryhome.cn/icons/FurryHome-202205091826592.ico",
+    "url": "https://www.furrychina.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "FurryWiki",
+    "desc": "开放的毛毛百科全书",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091830751.png",
+    "url": "https://zh.furrywiki.cn",
+    "cateName": "platform"
+  },
+  {
+    "name": "兽装服务指南",
+    "desc": "主要提供兽设画手相关信息、兽装装师相关联系方式、协助制作DTD省份信息，地方群/省群群号信息查询",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091828283.png",
+    "url": "https://fursuitguide.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "万物通行",
+    "desc": "在万物通行,开始制作您的兽装!（也可以估价）",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091840225.png",
+    "url": "https://www.ww-pass.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "兽码云",
+    "desc": "静态资源和其他资源存放地",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091841936.ico",
+    "url": "https://furcode.cn",
+    "cateName": "platform"
+  },
+  {
+    "name": "Infurnity 獸無限",
+    "desc": "台灣獸迷聚會",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091842408.png",
+    "url": "https://www.infurnity.com",
+    "cateName": "platform"
+  },
+  {
+    "name": "JMoF",
+    "desc": "日本兽聚",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091843014.png",
+    "url": "https://www.jmof.jp",
+    "cateName": "platform"
+  },
+  {
+    "name": "Furstar",
+    "desc": "一个帮助大家领养，出自不同设计师的可爱、帅气角色们的平台。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091844411.ico",
+    "url": "https://furstar.jp",
+    "cateName": "platform"
+  },
+  {
+    "name": "福瑞百科",
+    "desc": "面向兽圈新人的百科平台",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091844714.png",
+    "url": "https://www.furcn.net",
+    "cateName": "platform"
+  },
+  {
+    "name": "Furry Fandom",
+    "desc": "一个介绍 Furry 的静态网站",
+    "favicon": "https://furry-fandom.pages.dev/Image/Icon/webTitleIcon.png",
+    "url": "https://furry-fandom.pages.dev",
+    "cateName": "platform"
+  },
+  {
+    "name": "BTSRK.CLUB",
+    "desc": "Furry类作品展示网站",
+    "favicon": "https://btsrk.club/favicon.ico",
+    "url": "https://btsrk.club",
+    "cateName": "platform"
+  },
+  {
+    "name": "兽聚百科",
+    "desc": "兽聚汇总统计介绍",
+    "favicon": "https://furryfusion.net/favicon.ico",
+    "url": "https://furryfusion.net",
+    "cateName": "platform"
+  },
+  {
+    "name": "茸之爪 社区",
+    "desc": "社区合法化，推动Furry亚文化，兽圈社交全新起航！",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091845074.png",
+    "url": "https://bbs.furry.top",
+    "cateName": "community"
+  },
+  {
+    "name": "兽推 Furryowo",
+    "desc": "小动物的社区交流平台 - 兽圈社区owo",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091846743.png",
+    "url": "https://furryowo.top",
+    "cateName": "community"
+  },
+  {
+    "name": "野兽盒子 WildBox",
+    "desc": "随时随地遇见身边的兽 | Furry社交平台 | Furry社交APP",
+    "favicon": "https://wildbox.cn/themes/wondertag/img/icon.png",
+    "url": "https://wildbox.cn",
+    "cateName": "community"
+  },
+  {
+    "name": "Furagon",
+    "desc": "以龙为主题的艺术创作平台，面向龙爱好者的艺术主题站点",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091847762.ico",
+    "url": "https://www.furagon.com",
+    "cateName": "community"
+  },
+  {
+    "name": "Furwall 绒毛墙社区",
+    "desc": "小动物的聊天社区~（目前正在公测中）",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091848326.png",
+    "url": "https://www.furwall.cn",
+    "cateName": "community"
+  },
+  {
+    "name": "Dragicland 龙幻世界",
+    "desc": "Dragicland龙幻世界论坛，是一个以幻想故事创作与讨论为主的交流园地。",
+    "favicon": "https://www.dragicland.com/favicon.ico",
+    "url": "https://www.dragicland.com",
+    "cateName": "community"
+  },
+  {
+    "name": "FurLibrary·Furry社区论坛",
+    "desc": "这里是FurLibrary社区论坛，一个致力于打造兽圈最优秀的论坛！",
+    "favicon": "https://www.furrybbs.net/styles/io/images/favicon.png",
+    "url": "https://www.furrybbs.net",
+    "cateName": "community"
+  },
+  {
+    "name": "兽迷引航 - 群狼动力",
+    "desc": "还没有简介欸",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091827754.png",
+    "url": "https://furry.volf.club",
+    "cateName": "game"
+  },
+  {
+    "name": "像素尾巴 PixelTail",
+    "desc": "属于小动物的Minecraft服务器",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091850449.jpeg",
+    "url": "https://jq.qq.com",
+    "cateName": "game"
+  },
+  {
+    "name": "FurryGamesIndex - 兽人控游戏索引",
+    "desc": "发现好玩的兽人游戏",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091849787.jpeg",
+    "url": "https://furrygames.top",
+    "cateName": "game"
+  },
+  {
+    "name": "绮梦 云黑系统",
+    "desc": "网页一键查询兽圈黑 白名单",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091852508.png",
+    "url": "https://yunhei.qimeng.fun",
+    "cateName": "tools"
+  },
+  {
+    "name": "兽ICP备案",
+    "desc": "专属于兽圈的ICP登记备案中心,欢迎兽友加入。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091854911.ico",
+    "url": "https://furgov.cn",
+    "cateName": "tools"
+  },
+  {
+    "name": "fursuit 吧：档案馆与时间机器",
+    "desc": "为了无法忘却的往事",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205101703439.ico",
+    "url": "https://fursuit.catme0w.org",
+    "cateName": "tools"
+  },
+  {
+    "name": "FurDevsCN",
+    "desc": "/* 中国小动物开发者社群 */",
+    "favicon": "https://api.furryhome.cn/icons/fFH-202205101647697.png",
+    "url": "https://furdevs.cn",
+    "cateName": "organization"
+  },
+  {
+    "name": "两点十分动漫后援会",
+    "desc": "一家多元化发展的大型非营利宣传类组织",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091855534.jpeg",
+    "url": "https://fan.2-10.cn",
+    "cateName": "organization"
+  },
+  {
+    "name": "回音汉化组",
+    "desc": "兽游汉化组，目前汉化echo，露娜咖啡馆中",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091856085.png",
+    "url": "https://lupei.itch.io",
+    "cateName": "organization"
+  },
+  {
+    "name": "FURCALOID-UTAU 中华兽人组",
+    "desc": "UTAU中华兽人组官方网站",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091857816.ico",
+    "url": "https://utau.furcaloid.cn",
+    "cateName": "organization"
+  },
+  {
+    "name": "随心ACG",
+    "desc": "一个非商业的为爱发电性质社团",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091857631.ico",
+    "url": "https://heartacg.art",
+    "cateName": "organization"
+  },
+  {
+    "name": "翎迹网络",
+    "desc": "翎迹网络，为Furry组织、项目免费良心定制云计算产品",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091858840.png",
+    "url": "https://www.wingmark.cn",
+    "cateName": "organization"
+  },
+  {
+    "name": "天邪鬼工作室（Atelier Amanojaku）",
+    "desc": "以名古屋为中心的，各位常说的a家毛装制作公司",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091859286.ico",
+    "url": "https://www.atoama.cn",
+    "cateName": "organization"
+  },
+  {
+    "name": "K-LINE",
+    "desc": "K家兽装工作室",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091900733.ico",
+    "url": "https://kemono-line.jp",
+    "cateName": "organization"
+  },
+  {
+    "name": "福瑞档案馆 - 小翼",
+    "desc": "至·臻·至·简",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091901013.png",
+    "url": "https://blog.furry.top",
+    "cateName": "person"
+  },
+  {
+    "name": "群狼动力 - 逊狼",
+    "desc": "一头狼走得快，一群狼走得远。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091914541.ico",
+    "url": "https://volf.club",
+    "cateName": "person"
+  },
+  {
+    "name": "瑞兽谷",
+    "desc": "Furry，全栈，爱好游戏。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091916814.ico",
+    "url": "https://leorchn.github.io",
+    "cateName": "person"
+  },
+  {
+    "name": "科瑞 | Krits",
+    "desc": "科瑞的学习笔记~",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091916331.jpeg",
+    "url": "http://krits.fun",
+    "cateName": "person"
+  },
+  {
+    "name": "一实无言. - LF112",
+    "desc": "一位正在努力钻研前端开发的开发者,趁年轻,做爱做的事。Copy and paste constant defaulting.",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091917692.png",
+    "url": "https://futiwolf.com",
+    "cateName": "person"
+  },
+  {
+    "name": "Rehtt's Blog",
+    "desc": "迷失的人迷失了，相逢的人会再相逢",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091918806.ico",
+    "url": "https://rehtt.com",
+    "cateName": "person"
+  },
+  {
+    "name": "Runo+ 露诺的小窝",
+    "desc": "Web | NodeJs 一只来自深海的四耳猫鱼龙兽!",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091918769.jpeg",
+    "url": "https://runo.plus",
+    "cateName": "person"
+  },
+  {
+    "name": "布丁の基地",
+    "desc": "pudding233 - 混兽圈和生电圈qwq",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091923288.jpeg",
+    "url": "https://blog.furryowo.top",
+    "cateName": "person"
+  },
+  {
+    "name": "东竹茶庄",
+    "desc": "喝茶闲聊聚集地",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091925503.jpeg",
+    "url": "https://www.leisuremc.club",
+    "cateName": "person"
+  },
+  {
+    "name": "JmeowTechonology",
+    "desc": "还没有简介欸",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091926023.jpeg",
+    "url": "https://jmeow.org",
+    "cateName": "person"
+  },
+  {
+    "name": "玖叁的知识库",
+    "desc": "学习笔记记录分享（我是个屑）（是该站点站长）",
+    "favicon": "https://q1.qlogo.cn/g?b=qq&nk=1285419578&s=640",
+    "url": "https://blog.fur93.icu",
+    "cateName": "person"
+  },
+  {
+    "name": "飞羽的小窝",
+    "desc": "某只菜鸡的博客",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091941098.ico",
+    "url": "https://zoxoy.club",
+    "cateName": "person"
+  },
+  {
+    "name": "炎忍的博客",
+    "desc": "心之所愿,无所不成。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091944322.ico",
+    "url": "https://blog.imyan.ren",
+    "cateName": "person"
+  },
+  {
+    "name": "狼之兽介",
+    "desc": "蠢狼一只",
+    "favicon": "https://q1.qlogo.cn/g?b=qq&nk=746515005&s=640",
+    "url": "https://blog.wolf4096.top",
+    "cateName": "person"
+  },
+  {
+    "name": "九笙的小站",
+    "desc": "深夜の居酒屋",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091949023.png",
+    "url": "http://geeker.4uv.top",
+    "cateName": "person"
+  },
+  {
+    "name": "魂酱的博客",
+    "desc": "欢迎回家",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091948011.png",
+    "url": "https://www.furriesclub.online",
+    "cateName": "person"
+  },
+  {
+    "name": "Hello！I'm 中二病晚期",
+    "desc": "一只狐狸敲出的一个奇迹",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091950026.jpeg",
+    "url": "https://imfurry.com",
+    "cateName": "person"
+  },
+  {
+    "name": "老方个人网站",
+    "desc": "阿巴阿巴",
+    "favicon": "https://laofang.rth.app/favicon.ico",
+    "url": "http://bilibili-laofang.mysxl.cn",
+    "cateName": "person"
+  },
+  {
+    "name": "狼王白牙的巢穴",
+    "desc": "千年老狼成精了！狼王白牙的自介及其它信息发布。",
+    "favicon": "https://api.furryhome.cn/icons/FH-202205091951167.jpeg",
+    "url": "https://alphawolf.asia",
+    "cateName": "person"
+  },
+  {
+    "name": "鹏龙-道记-道锋潜鳞编年史",
+    "desc": "鹏龙-道记-是一只应龙的专注于知识分享的网站",
+    "favicon": "https://b.4l2.cn/favicon.ico",
+    "url": "https://b.4l2.cn",
+    "cateName": "person"
+  },
+  {
+    "name": "霖念的博客",
+    "desc": "咕咕咕的博客",
+    "favicon": "https://q1.qlogo.cn/g?b=qq&nk=2544704967&s=640",
+    "url": "https://blog.linnian.icu",
+    "cateName": "person"
+  },
+  {
+    "name": "幻梦 - FantasyDream",
+    "desc": "以梦为马 不负韶华 凝聚全力 创造辉煌",
+    "favicon": "http://qimeng.fun/Web/image/icon.png",
+    "url": "https://furry.qimeng.fun",
+    "cateName": "person"
+  },
+  {
+    "name": "PCD-01's Blog",
+    "desc": "咕噜咕噜咕噜咕噜",
+    "favicon": "https://blog-1302891645.file.myqcloud.com/pic/2022/07/14/TZFhCt0n_Avatar.png",
+    "url": "https://blog.pcd-team.cn",
+    "cateName": "person"
+  },
+  {
+    "name": "Suchen's Blog",
+    "desc": "夙宸的小博客",
+    "favicon": "https://www.suchenawa.com/BackgroundImage/header_logo.jpg",
+    "url": "https://www.suchenawa.com",
+    "cateName": "person"
+  },
+  {
+    "name": "西西's Blog",
+    "desc": "一只呆狼龙的博客",
+    "favicon": "https://xixi.blog/wp-content/uploads/2022/05/89040d364f6c.png",
+    "url": "https://xixi.blog",
+    "cateName": "person"
+  },
+  {
+    "name": "小黄泊的小站",
+    "desc": "一只中二兽兽的小个人网站",
+    "favicon": "https://furrylove.top/wp-content/uploads/2022/06/cropped-小黄泊的头像20r-32x32.png",
+    "url": "https://furrylove.top",
+    "cateName": "person"
+  },
+  {
+    "name": "F_Qilin的小窝",
+    "desc": "简单的博客",
+    "favicon": "https://api.furryhome.cn/icons/FH-1661482680858.png",
+    "url": "https://www.fqilin.top",
+    "cateName": "person"
+  },
+  {
+    "name": "唯灵の手札",
+    "desc": "【个人势VUP】唯灵是一只在南方小城流浪的小橘猫，在一次偶然的邂逅被贱太收养。",
+    "favicon": "https://api.furryhome.cn/icons/FH-1661482748371.jpeg",
+    "url": "https://www.wierli.com",
+    "cateName": "person"
+  }
+]
