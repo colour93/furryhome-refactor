@@ -14,7 +14,7 @@ export const LinkCard: React.FC<Props> = ({ site }) => {
 
   return <>
     <a
-      className={classNames('flex items-center h-[88px] md:h-[72px] rounded bg-white p-3 md:p-4 gap-2 md:gap-4 cursor-pointer hover:-translate-y-1.5 transition-all hover:shadow-2xl')}
+      className={classNames('flex items-center h-[88px] md:h-[72px] rounded bg-[var(--fh-color-bg-1)] p-3 md:p-4 gap-2 md:gap-4 cursor-pointer hover:-translate-y-1.5 hover:shadow-2xl dark:hover:border-blue-400 dark:hover:border-[1px] transition-shadow transition-transform')}
       href={site.url} target='_blank'
       //   onMouseOver={() => {
       //   setIsHover(true);
@@ -34,7 +34,7 @@ export const LinkCard: React.FC<Props> = ({ site }) => {
       {/*  </div>*/}
       {/*</div>}*/}
 
-      <div className='rounded-xl min-w-[36px] w-[36px] h-[36px] min-h-[36px] overflow-hidden'>
+      <div className='rounded-xl min-w-[36px] w-[36px] h-[36px] min-h-[36px] overflow-hidden bg-white'>
         <LazyLoadImage height={36} width={36} src={isError ? '/avatar.svg' : site.favicon} effect='opacity' placeholderSrc='/avatar.svg'
                        onError={() => {
                          setIsError(true);
@@ -42,8 +42,8 @@ export const LinkCard: React.FC<Props> = ({ site }) => {
 
       </div>
       <div className='flex flex-col justify-center'>
-        <span className='text-sm text-ellipsis line-clamp-1 text-gray-600 font-bold'>{site.name}</span>
-        <span className='text-xs text-ellipsis line-clamp-3 md:line-clamp-2 text-gray-500'>{site.desc}</span>
+        <span className='text-sm text-ellipsis line-clamp-1 text-[var(--fh-color-text-0)] font-bold'>{site.name}</span>
+        <span className='text-xs text-ellipsis line-clamp-3 md:line-clamp-2 text-[var(--fh-color-text-1)]'>{site.desc}</span>
       </div>
     </a>
   </>;

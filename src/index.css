@@ -1,5 +1,21 @@
+:root {
+    --fh-color-bg-0: #f6f6f6;
+    --fh-color-bg-1: #ffffff;
+    --fh-color-text-0: #4b5563;
+    --fh-color-text-1: #6b7280;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --fh-color-bg-0: #212121;
+        --fh-color-bg-1: #424242;
+        --fh-color-text-0: #e0e0e0;
+        --fh-color-text-1: #bdbdbd;
+    }
+}
+
 body {
     margin: 0;
     padding: 0;
-    background-color: #f6f6f6;
+    background-color: var(--fh-color-bg-0);
 }

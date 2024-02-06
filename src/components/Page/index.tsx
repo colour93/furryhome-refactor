@@ -29,7 +29,7 @@ export const Page: React.FC = () => {
       {categories.map(category => {
         const sites = sitesMapper[category.name];
         return <div key={category.name} className='flex flex-col gap-2'>
-          <div id={category.name} className='flex items-center gap-2 text-gray-600 cursor-default'>
+          <div id={category.name} className='flex items-center gap-2 text-[var(--fh-color-text-0)] cursor-default'>
             {category.icon}
             <span>{category.displayName}</span>
           </div>
