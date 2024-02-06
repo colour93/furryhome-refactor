@@ -1,5 +1,5 @@
 import { Site } from '@/typings';
-import React from 'react';
+import React, { useState } from 'react';
 import classNames from 'classnames';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
@@ -10,16 +10,17 @@ interface Props {
 export const LinkCard: React.FC<Props> = ({ site }) => {
 
   // const [isHover, setIsHover] = useState(false);
+  const [isError, setIsError] = useState(false);
 
   return <>
     <a
       className={classNames('flex items-center h-[72px] rounded bg-white p-4 gap-4 cursor-pointer hover:-translate-y-1.5 transition-all hover:shadow-2xl')}
       href={site.url} target='_blank'
-    //   onMouseOver={() => {
-    //   setIsHover(true);
-    // }} onMouseOut={() => {
-    //   setIsHover(false);
-    // }}
+      //   onMouseOver={() => {
+      //   setIsHover(true);
+      // }} onMouseOut={() => {
+      //   setIsHover(false);
+      // }}
     >
 
       {/*{isHover && <div*/}
@@ -33,8 +34,11 @@ export const LinkCard: React.FC<Props> = ({ site }) => {
       {/*  </div>*/}
       {/*</div>}*/}
 
-      <div className='rounded-xl min-w-[36px] w-[36px] overflow-hidden'>
-        <LazyLoadImage src={site.favicon} alt={`favicon-${site.name}`} />
+      <div className='rounded-xl min-w-[36px] w-[36px] h-[36px] min-h-[36px] overflow-hidden'>
+        <LazyLoadImage height={36} width={36} src={isError ? '/avatar.svg' : site.favicon} effect='opacity' placeholderSrc='/avatar.svg'
+                       onError={() => {
+                         setIsError(true);
+                       }} />
 
       </div>
       <div className='flex flex-col justify-center'>

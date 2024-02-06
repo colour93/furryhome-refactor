@@ -21,6 +21,9 @@ export interface SiteStat {
   liked?: boolean;
 }
 
-export interface BannerCard {
-
+export interface Banner {
+  title: string;
+  url: string;
+  icon: React.ReactNode;
+  color: string;
 }
