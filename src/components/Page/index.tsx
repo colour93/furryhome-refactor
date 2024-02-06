@@ -16,10 +16,10 @@ export const Page: React.FC = () => {
     return acc;
   }, {});
 
-  return <div className='flex flex-col px-12 py-4 h-[100vh] w-full overflow-y-auto gap-4'>
+  return <div className='flex flex-col px-3 md:px-12 py-4 h-[100vh] w-full overflow-y-auto gap-4'>
 
     {/*banner*/}
-    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4'>
+    <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>
       {banners.sort(() => Math.random() - 0.5).map(banner => <BannerCard banner={banner} />)}
     </div>
 
@@ -33,7 +33,7 @@ export const Page: React.FC = () => {
             {category.icon}
             <span>{category.displayName}</span>
           </div>
-          <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4'>
+          <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>
             {sites.sort(() => Math.random() - 0.5).map((site, index) => <LinkCard key={index} site={site} />)}
           </div>
         </div>;

@@ -2,9 +2,15 @@ import React from 'react';
 import { categories } from '@/assets/categories.tsx';
 import { SideNavItem } from '@/components/SideNav/item.tsx';
 import { FaGithub, FaQq } from 'react-icons/fa6';
+import classNames from 'classnames';
 
-export const SideNav: React.FC = () => {
-  return <div className='h-[100vh] min-w-[240px] bg-gray-900 text-gray-400 flex flex-col gap-10 items-center py-10'>
+interface Props {
+  className?: string | undefined;
+}
+
+export const SideNav: React.FC<Props> = ({ className }) => {
+  return <div
+    className={classNames('h-screen min-w-[240px] bg-gray-900 text-gray-400 flex flex-col gap-10 items-center py-10', className)}>
     <div className='w-[160px]'>
       <img src='/furryhome.png' alt='logo' />
     </div>
@@ -17,8 +23,10 @@ export const SideNav: React.FC = () => {
         <FaGithub />
         <span>colour93 / furryhome-refactor</span>
       </a>
-      <a href='https://qm.qq.com/cgi-bin/qm/qr?authKey=zWRs85uOZFkFQdoa754m4UvryCQAg%2FNB0S7XI1IcJ1s7igM49mJ1Vl%2BmO4QO%2FUPQ&k=fRZ6UMKRJvd9lhqB1d9MJWe9LR61J_3N&noverify=0' target='_blank'
-         className='flex items-center gap-1 text-gray-400 transition-colors hover:text-gray-200'>
+      <a
+        href='https://qm.qq.com/cgi-bin/qm/qr?authKey=zWRs85uOZFkFQdoa754m4UvryCQAg%2FNB0S7XI1IcJ1s7igM49mJ1Vl%2BmO4QO%2FUPQ&k=fRZ6UMKRJvd9lhqB1d9MJWe9LR61J_3N&noverify=0'
+        target='_blank'
+        className='flex items-center gap-1 text-gray-400 transition-colors hover:text-gray-200'>
         <FaQq />
         <span>QQ 交流群</span>
       </a>
